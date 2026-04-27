@@ -1,4 +1,4 @@
-# 👋 Vovchik777
+# Vovchik777
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://python.org)
 [![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge)](https://djangoproject.com)
@@ -8,7 +8,7 @@
 
 ---
 
-## 📦 Основные проекты
+##  Основные проекты
 
 | Репозиторий | Назначение | Что используется |
 |-------------|------------|------------------|
@@ -21,6 +21,14 @@
 
 ---
 
-## 📊 Активность
+##  Активность
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Vovchik777&show_icons=true&theme=github-dark&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vovchik777&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vovchik777&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Langs" height="160"/>
+</div>
+
+<!-- График активности -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vovchik777&theme=react&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+</div>
