@@ -24,8 +24,11 @@
 ##  Активность
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vovchik777&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vovchik777&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Langs" height="160"/>
+
+![Commits](https://img.shields.io/github/commit-activity/y/Vovchik777?style=for-the-badge&logo=git&logoColor=white&color=3776AB)
+![Repos](https://img.shields.io/badge/Repositories-13-3776AB?style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://img.shields.io/github/followers/Vovchik777?style=for-the-badge&logo=github&color=2ea44f)
+
 </div>
 
 <!-- График активности -->
